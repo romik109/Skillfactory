@@ -8,9 +8,8 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 1. [Введение](./startworking.md)
-2. [git add](./add.md)    
-     2.1. [git add](./add.md)    
-     2.2. [git add](./add.md)
+2. [Начало работы с GIT](./startmenu.md)    
+3. [Настройка репозитория](./next.md)
 4. [git add](./add.md)
 5. [git add](./add.md)
 6. [git add](./add.md)
@@ -18,7 +17,6 @@ LICENSE: [MIT](./license.md)
 8. [git add](./add.md)
 9. [git add](./add.md)
 10. [git add](./add.md)
-11. [git add](./add.md)
 ---
 
 GIT logo by Jason Long - https://git-scm.com/downloads/logos,

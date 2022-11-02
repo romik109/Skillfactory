@@ -9,4 +9,5 @@
 
 ----
 >[<<Назад](./fixchange.md) [Далее>>](./ONdistance.md)  
-[>>К разделу 5](./startmenu5.md)
+> [>>К разделу 5](./startmenu5.md)   
+> [<<В главное меню](./readme.md)  

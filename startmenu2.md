@@ -7,6 +7,7 @@
 2.3. [GIT. Запись изменений в репозиторий](/changesave.md)
 
 ----
->[<<Назад](./startworking.md) [Далее>>](./configuration.md)  
-[>>К разделу 3](./startmenu3.md)
+> [<<Назад](./startworking.md) [Далее>>](./configuration.md)   
+> [>>К разделу 3](./startmenu3.md)  
+> [<<В главное меню](./readme.md)  
 

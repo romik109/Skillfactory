@@ -22,4 +22,4 @@ git config --global user.email "<адрес_почты@email.com>"
 ![](/green_93DB70/10perc.png)
 
 ---
->[<<Назад](./startmenu.md) [Далее>>](./createreposit.md)
+>[<<Назад](./startmenu2.md) [Далее>>](./createreposit.md)

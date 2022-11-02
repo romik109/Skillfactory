@@ -8,5 +8,6 @@
 3.3. [GIT. Фиксация и просмотр изменений](./fixchange.md)   
 
 ----
->[<<Назад](./changesave.md) [Далее>>](./stayreposit.md)  
-[>>К разделу 4](./startmenu4.md)
+> [<<Назад](./changesave.md) [Далее>>](./stayreposit.md)  
+> [>>К разделу 4](./startmenu4.md)   
+> [<<В главное меню](./readme.md)  

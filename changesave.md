@@ -16,4 +16,4 @@
 ![](/green_93DB70/20perc.png)
 
 ----
->[<<Назад](./startmenu.md) [Далее>>](./next.md)
+>[<<Назад](./startmenu2.md) [Далее>>](./startmenu3.md)

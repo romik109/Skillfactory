@@ -37,4 +37,4 @@
 ![](/green_93DB70/15perc.png)
 
 ----
->[<<Назад](./startmenu.md) [Далее>>](./changesave.md)
+>[<<Назад](./startmenu2.md) [Далее>>](./changesave.md)
